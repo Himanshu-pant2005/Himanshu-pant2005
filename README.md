@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Himanshu Pant 👋</h1>
 
 <p align="center">
-  <b>Fresher · Web Developer · Java Enthusiast · Open to Work</b>
+  <b>3rd Year CS Student · Web Developer · Java Enthusiast · Open to Internships</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshu-pant-394a512aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:himanshupant602@gmail.com.com">
+  <a href="mailto:himanshupant602@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Himanshu-pant2005&style=for-the-badge&color=0e75b6" />
@@ -18,9 +18,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd Year CS Student (6th Sem) · Actively looking for **internships & full-time roles**
+- 🎓 3rd Year CS Student (6th Sem) · Actively looking for **internships**
 - 🌱 Currently learning and building with **Java**, **JavaScript**, and **Web technologies**
-- 🛠️ I enjoy working on projects that solve real-world problems — from library systems to smart waste management
+- 🛠️ I enjoy working on projects that solve real-world problems — from college counselling portals to smart waste management
 - 💡 Always curious, always improving
 
 ---
@@ -30,6 +30,8 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -45,8 +47,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [🎓 CounselSphere](https://github.com/Himanshu-pant2005/college-counselling) | Full-stack college admission portal — student registration, merit ranking, seat allotment, fee verification & PDF offer letter generation | Next.js, Prisma, NextAuth |
 | [📚 LibraryOPAC](https://github.com/Himanshu-pant2005/LibraryOPAC) | Online Public Access Catalog for library management | Java |
-| [♻️ Smart Waste Management](https://github.com/Himanshu-pant2005/Smart-Waste-Management-System) | Smart system to streamline waste collection & management | CSS, JS |
+| [♻️ Smart Waste Management](https://github.com/Himanshu-pant2005/Smart-Waste-Management-System) | Smart system to streamline waste collection & management | HTML, CSS, JS |
 | [🤖 Smart Code Reviewer](https://github.com/Himanshu-pant2005/smart-code-reviewer) | Tool to automate code review suggestions | JavaScript |
 
 ---
@@ -56,9 +59,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Himanshu-pant2005&theme=github-dark-blue&hide_border=true" width="55%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu-pant2005&theme=github-compact&hide_border=true" width="90%" />
 </p>
+
 ---
 
 ### 📬 Let's Connect
